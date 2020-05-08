@@ -1,2 +1,2 @@
-# github-homeworke1
+# github-homework1
 homeworke1
